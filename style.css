@@ -1,0 +1,15 @@
+.feature-blog{
+    display: flex;
+    gap: 10px;
+}
+.title{
+    width: 100%;
+    text-align: center;
+}
+.symbol{
+    width: 100%;
+    text-align: center;
+}
+.container{
+    border: 1px solid black;
+}
